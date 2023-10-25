@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/capybbv/web-homework/static/css/main.74acce42.css",
+    "main.js": "/capybbv/web-homework/static/js/main.03685e55.js",
+    "index.html": "/capybbv/web-homework/index.html",
+    "main.74acce42.css.map": "/capybbv/web-homework/static/css/main.74acce42.css.map",
+    "main.03685e55.js.map": "/capybbv/web-homework/static/js/main.03685e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74acce42.css",
+    "static/js/main.03685e55.js"
+  ]
+}
